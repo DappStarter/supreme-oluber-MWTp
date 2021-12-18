@@ -1,0 +1,8 @@
+{
+    "name": "iui",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/vanilla": true
+    }
+}
